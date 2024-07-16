@@ -1,5 +1,5 @@
+streamlit
 rembg
 Pillow
-streamlit
 numba
-numpy
+numpy<2.0.0
